@@ -1,0 +1,13 @@
+PODS:
+  - IAPHelper (1.1)
+  - MJExtension (3.0.13)
+
+DEPENDENCIES:
+  - IAPHelper (~> 1.1)
+  - MJExtension (~> 3.0.13)
+
+SPEC CHECKSUMS:
+  IAPHelper: fd74f53b0ac142eed085777b88b86a11746a2dd4
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+
+COCOAPODS: 0.39.0
